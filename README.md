@@ -1,6 +1,7 @@
-# HAPI-FHIR Starter Project
+#  INLAB HAPI-FHIR Starter Project
 
 This project is a complete starter project you can use to deploy a FHIR server using HAPI FHIR JPA.
+FHIR API server for PHR(Personal Health Record)
 
 Note that this project is specifically intended for end users of the HAPI FHIR JPA server module (in other words, it helps you implement HAPI FHIR, it is not the source of the library itself). If you are looking for the main HAPI FHIR project, see here: https://github.com/hapifhir/hapi-fhir
 
