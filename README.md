@@ -1,5 +1,6 @@
 #  INLAB HAPI-FHIR Starter Project
 
+## HAPI Open Source FHIR Server Implementation
 This project is a complete starter project you can use to deploy a FHIR server using HAPI FHIR JPA.
 FHIR API server for PHR(Personal Health Record)
 
